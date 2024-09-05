@@ -12,5 +12,5 @@ Please make sure you do not share the code without taking your bot token out of 
 - Type whatever you want to send in the channel, and press enter
 
 ## Current commands
-clearconsole - Clears the console if it looks too clogged
-goback - Goes back to the channel selection screen
+- clearconsole - Clears the console if it looks too clogged
+- goback - Goes back to the channel selection screen
