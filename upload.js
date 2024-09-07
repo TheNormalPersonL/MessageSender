@@ -19,7 +19,7 @@ client.once('ready', () => {
 });
 
 function startChannelSelection() {
-    console.clear(); // Clears console before showing channel selection
+    console.clear();
 
     const guilds = client.guilds.cache;
     let channelList = [];
