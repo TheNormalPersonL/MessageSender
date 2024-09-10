@@ -24,7 +24,7 @@ client.once('ready', () => {
 function startChannelSelection() {
     console.clear(); // Clear the console for a fresh view
 
-    const guilds = client.guilds.cache; // Get the list of all guilds (servers) the bot is in
+    const guilds = client.guilds.cache; // Get the list of all servers the bot is in
     let channelList = []; // Stores the text channels
 
     // Loop through all guilds and channels to grab text-based ones
